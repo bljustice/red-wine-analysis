@@ -1,0 +1,6 @@
+Below are additional external sources used to analyze my dataset. 
+
+http://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity
+http://waterhouse.ucdavis.edu/whats-in-wine/volatile-acidity
+http://www.calwineries.com/learn/wine-chemistry/wine-acids/citric-acid
+http://www.calwineries.com/learn/wine-chemistry/acidity
